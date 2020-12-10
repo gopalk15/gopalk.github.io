@@ -1,2 +1,2 @@
-# staticWebpage.github.io
-Static Webpages
+# gopalk.github.io
+Static Webpages for professional portfolio
